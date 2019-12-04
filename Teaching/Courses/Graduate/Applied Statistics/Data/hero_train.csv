@@ -1,0 +1,7 @@
+﻿name,sex,mask,cape,tie,ears,smokes,class
+batman,Male,Yes,Yes,No,Yes,No,Good
+robin,Male,Yes,Yes,No,No,No,Good
+alfred,Male,No,No,Yes,No,No,Good
+penguin,Male,No,No,Yes,No,Yes,Bad
+catwoman,Female,Yes,No,No,Yes,No,Bad
+joker,Male,No,No,No,No,No,Bad
