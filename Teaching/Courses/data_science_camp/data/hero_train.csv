@@ -1,0 +1,7 @@
+﻿name,sex,mask,cape,tie,ears,smokes,class
+batman,0,1,1,0,1,0,1
+robin,0,1,1,0,0,0,1
+alfred,0,0,0,1,0,0,1
+penguin,0,0,0,1,0,1,0
+catwoman,1,1,0,0,1,0,0
+joker,0,0,0,0,0,0,0
